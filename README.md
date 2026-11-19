@@ -7,16 +7,19 @@ checkout and how conversion differs between desktop and mobile users.
 > **Core question:** Where in the checkout flow are customers dropping
 > off the most, and what should the product team investigate?
 
+
 ## Dashboard
 
-![Power BI dashboard](https://1drv.ms/i/c/21a5a2c07f8f375e/IQCYEJxZPDliSJXZMR7--hsQAUjw2laOR9H54fUq1KHkfQw?e=bnTZnB)
+[![Cart Abandonment Power BI Dashboard](Outputs/Cart_Abandonment_Dashboard.png)](Outputs/Cart_Abandonment_Dashboard.png)
 
-The Power BI dashboard includes: - KPI cards for product sessions,
-completed purchases, overall conversion and largest drop-off - Checkout
-funnel from Product to Purchase - Desktop vs. mobile conversion by
-checkout transition - Product-session distribution by device - Drop-off
-comparison across checkout transitions - A Device Type slicer for
-interactive filtering
+[View Interactive Power BI Dashboard](Outputs/Cart_Abandonment_Dashboard.png)
+
+The dashboard includes:
+- KPI cards for sessions, purchases and conversion.
+- Checkout funnel from Product to Purchase.
+- Desktop vs. mobile conversion analysis.
+- Drop-off comparison across checkout transitions.
+- Interactive Device Type slicer.
 
 ## Key findings
 
